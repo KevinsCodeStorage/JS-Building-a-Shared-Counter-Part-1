@@ -18,3 +18,4 @@ Please refer to the Activity Guide in Canvas for directions.
 - create a function in `public/index.js` for creating your resource
 - register a click listener or invoke the function in the `onclick=yourFunction()` attribute of the button
 - make a fetch POST request to one of the endpoints, then verify that the GET endpoint returns at least one more entry (another student may add one in meantime)
+- look at [example request diagram](request-diagram.PNG)
